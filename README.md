@@ -10,8 +10,7 @@ This project is a simple Python calculator that performs:
 It uses input from the user and prints out the result in a readable format.
 
 ## ✅ Example
-10, 5, +  
-Output: 10 + 5 = 15
+10, 5, +  Output: 10 + 5 = 15
 
 ## 🎯 Purpose
 - Practice using Python input/output
